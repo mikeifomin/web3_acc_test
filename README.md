@@ -1,3 +1,3 @@
 run 
 
-  ETH_URL=http://<url>:8545 COINBASE_KEY_PRIVATE=0x<key>
+  ETH_URL=url COINBASE_KEY_PRIVATE=key npm start
